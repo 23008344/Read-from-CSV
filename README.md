@@ -30,8 +30,10 @@ print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Screenshot 2023-12-25 194703](https://github.com/23008344/Read-from-CSV/assets/145742655/a67a00ee-2bdb-41db-a51f-1d9af46d48af)
+
+![image](https://github.com/23008344/Read-from-CSV/assets/145742655/3f45e1fd-1698-457c-8e8c-fdbd3a1fd7d2)
+
 
 ## RESULT:
 Thus the progam has been completed sucessfully
