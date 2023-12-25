@@ -17,8 +17,8 @@ end the program
 ## PROGRAM:
 ```
 '''
-Developed by: 
-Register No: 2122232400136
+Developed by: VARNIKA.P
+Register No: 23008344
 '''
 To write a python program for reading content from a CSV file.
 import pandas as pd
